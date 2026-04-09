@@ -1,5 +1,6 @@
 from ultralytics import YOLO
 import cv2
+import sumo
 
 # RL model import
 from src.rl_model.use_model import get_signal_from_rl
